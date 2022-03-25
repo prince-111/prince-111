@@ -5,7 +5,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Prince Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111)](https://github.com/prince-111/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats)
 
 
 <!---
