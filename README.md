@@ -12,17 +12,36 @@
 # Find me around the web 🌎:
 Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a11ba/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats)
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111&theme=radical)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <!-- [![Prince Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111)](https://github.com/prince-111/github-readme-stats) -->
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true)
+## Stats 📈
+ <details/> 
+</details>
+ <h2>My GitHub Stats </h2>
+ <br>
+ <p align="center">
+  
+  <a href="https://github.com/prince-111">
+  
+  <img height= "250em" src="https://streak-stats.demolab.com?user=prince-111" />
+
+  <img height = "250em" src="https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true" />
+  
+  <img height ="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact">
+</p>  
+
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats) --->
+
+<!--- ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true) --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats)
+ <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats) --->
+
 
 <!---
 prince-111/prince-111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
