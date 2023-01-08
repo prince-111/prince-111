@@ -2,6 +2,7 @@
 
 ### 👋 Hi, I'm Prince 👨‍💻
  -🧑‍ I'm Currently purshuing B.tech of Computer Science Enginnering from KIIT COLLEGE OF ENGINERRING..
+ - 🌱 I’m currently learning React js   
  
 - 👀 I’m interested in open source contribution...
 - 🌱 I’m currently learning ...
