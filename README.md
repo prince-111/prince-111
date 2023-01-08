@@ -1,11 +1,15 @@
 # 90 days coding challenge ! 01-01-2023
 
-### 👋 Hi, there
+### 👋 Hi, I'm Prince 👨‍💻
+ -🧑‍ I'm Currently purshuing B.tech of Computer Science Enginnering from KIIT COLLEGE OF ENGINERRING..
+ 
 - 👀 I’m interested in open source contribution...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+# Find me around the web 🌎:
+Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a11ba/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats)
 
