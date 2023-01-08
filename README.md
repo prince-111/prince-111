@@ -16,12 +16,12 @@ Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a1
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111&theme=radical)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111&theme=tokyonight)](https://git.io/streak-stats) -->
 
-[![Prince Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111)](https://github.com/prince-111/github-readme-stats)
+<!-- [![Prince Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111)](https://github.com/prince-111/github-readme-stats) -->
 
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats)
-
 
 <!---
 prince-111/prince-111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
