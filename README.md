@@ -32,7 +32,7 @@ Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a1
 
   <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true" />
   
-  <img height ="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact" />
+  <img height ="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact">
 </p>  
 
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats) --->
