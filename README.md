@@ -31,7 +31,7 @@ Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a1
   
   <img height= "220em" src="https://streak-stats.demolab.com?user=prince-111" />
 
-  <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prince-111&show_icons=true" />
+<!--   <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prince-111&show_icons=true" /> -->
   
   <img height ="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince-111&layout=compact">
 </p>  
