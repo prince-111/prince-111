@@ -1,5 +1,3 @@
-# 90 days coding challenge ! 01-01-2023
-
 ### 👋 Hi, I'm Prince 👨‍💻
  -🧑‍ I'm Currently purshuing B.tech of Computer Science Enginnering from KIIT COLLEGE OF ENGINERRING..
  - 🌱 I’m currently learning React js🔥   
