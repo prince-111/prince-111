@@ -1,3 +1,45 @@
+### Hi there, I'm Prince👦,
+A Full Stack Web developer🎯 from India.
+
+- 👨‍💻 Full Stack MERN Developer
+- 📚 What do I believe? Jack of all, Master of some.
+- 🌱 I’m currently learning React js, Next.js and TypeScript🔥   
+- 👀 I’m interested in open-source contribution...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<!--- 
+![Prince's github stats](https://github-readme-stats.vercel.app/api?username=prince-111&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&theme=tokyonight&layout=compact)
+-->
+<h3> 🤝🏻 Connect with Me </h3>   
+
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/prince-kumar-3451a11ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prince%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:princesd991@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-princesd991@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 ### 👋 Hi, I'm Prince 👨‍💻
  - 🌱 I’m currently learning React js, Next.js and TypeScript🔥   
  
@@ -17,7 +59,7 @@ Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a1
 <!-- [![Prince Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111)](https://github.com/prince-111/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Stats 📈
+<!-- ## Stats 📈
  <details/> 
 </details>
  <h2>My GitHub Stats </h2>
@@ -35,12 +77,11 @@ Sharing updates on LinkedIn💼 (https://www.linkedin.com/in/prince-kumar-3451a1
 
 <!-- - (https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)- -->
  
-<!-- - [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats) - -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats) 
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true) 
 
-<!-- - ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince-111&show_icons=true) - -->
 
-
-<!--  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats) - -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&layout=compact)](https://github.com/prince-111/github-readme-stats)
 
 
 <!---
