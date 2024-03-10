@@ -24,7 +24,7 @@ A Full Stack Web developer🎯 from India.
 <h3> 🤝🏻 Connect with Me </h3>   
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> 
+<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>  -->
 <a href="https://www.linkedin.com/in/prince-kumar-3451a11ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prince%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:princesd991@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-princesd991@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 </p>
