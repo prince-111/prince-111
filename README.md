@@ -1,9 +1,9 @@
 ### Hi there, I'm Prince👦,
 A Full Stack Web developer🎯 from India.
 
-- 👨‍💻 Full Stack MERN Developer
+- 👨‍💻 Full Stack MERN Developer.
 - 📚 What do I believe? Jack of all, Master of some.
-- 🌱 I’m currently learning React js, Next.js and TypeScript🔥   
+- 🌱 I’m currently learning React js, Next.js and TypeScript.🔥   
 - 👀 I’m interested in open-source contribution...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
