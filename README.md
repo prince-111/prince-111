@@ -17,6 +17,8 @@ A Fronted Developer 🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code> <img height="20" src="https://github.com/prince-111/prince-111/assets/88477312/7baadc5c-b7b8-44e8-be8e-e83c4f4d90e8/topics/tailwind.png"> </code>
+
 <!--- 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api?username=prince-111&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&theme=tokyonight&layout=compact)
