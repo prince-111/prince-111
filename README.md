@@ -1,11 +1,8 @@
-### Hi there, I'm Prince👦,
-A Fronted Developer 🎯 from India.
-   
+### Hi there, I'm Prince👦
 - 👨‍💻 Full Stack Developer.
 - 📚 What do I believe? Jack of all, Master of some.
 - 🌱 I’m currently learning React js, Next.js and TypeScript.   
 - 👀 I’m interested in open-source contribution...
-- 🌱 I’m currently learning React & Next js ...
 - 💞️ I’m looking to collaborate on ...
 
 **Languages:**  
