@@ -1,5 +1,6 @@
 ### Hi there, I'm Prince👦
-- 👨‍💻  currently working on enchatedearth.in as Full Stack Developer.
+- 👨‍💻 currently working on enchatedearth.in as Full Stack Developer.
+- 🌏 Love to build Web App using the full stack, to help people around me.
 - 📚 What do I believe? Jack of all, Master of some.
 - 🌱 I’m currently learning React js, Next.js and TypeScript.   
 - 👀 I’m interested in open-source contribution...
