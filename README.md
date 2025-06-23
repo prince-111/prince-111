@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning React js, Next.js and TypeScript.   
 - 👀 I’m interested in open-source contribution...
 - 💞️ I’m looking to collaborate on...
-- mobile app devlop
 
 **Languages:** 
 
