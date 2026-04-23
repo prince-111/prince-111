@@ -6,6 +6,28 @@
 - 👀 I’m interested in open-source contribution...
 - 💞️ I’m looking to collaborate on...
 
+I'm a Software Engineer who enjoys building meaningful web and mobile products. I’m driven by curiosity and a constant desire to learn, which has helped me grow through hands-on experience across different technologies and domains.
+
+
+
+I have experience working across the full stack using technologies like NextJs, React, React Native, JavaScript, TypeScript, NodeJs, and Go (Gin), along with AWS, PostgreSQL, MySQL, Tailwind CSS, Redux, and micro-frontend architectures. I’ve also worked with tools like Figma and GitHub Actions to streamline development and deployment.
+
+
+
+Over the past few years, I’ve contributed to products in health-tech and HRM, building scalable interfaces, integrating maps and payment systems, and working with real-time features. Along the way, I’ve also taken on responsibilities like leading teams and organizing events.
+
+
+
+I enjoy the entire product development process, from understanding problems to designing and shipping solutions that make an impact.
+
+
+
+Always open to learning, collaborating, and building things that matter.
+
+
+
+Let’s connect: princesd991@gmail.com
+
 <!--- 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api?username=prince-111&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&theme=tokyonight&layout=compact)
