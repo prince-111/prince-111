@@ -2,7 +2,7 @@ I'm a Software Engineer who enjoys building meaningful web and mobile products. 
 
 
 
-I have experience working across the full stack using technologies like NextJs, React, React Native, JavaScript, TypeScript, NodeJs, and Go (Gin), along with AWS, PostgreSQL, MySQL, Tailwind CSS, Redux, and micro-frontend architectures. I’ve also worked with tools like Figma and GitHub Actions to streamline development and deployment.
+I have experience working across the full stack using technologies like NextJs, React, React Native, JavaScript, TypeScript, NodeJs, and Go (Gin), django framework along with AWS, PostgreSQL, MySQL, Tailwind CSS, Redux, and micro-frontend architectures. I’ve also worked with tools like Figma and GitHub Actions to streamline development and deployment.
 
 
 
