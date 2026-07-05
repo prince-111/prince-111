@@ -18,8 +18,6 @@ Always open to learning, collaborating, and building things that matter.
 
 
 
-Let’s connect: princesd991@gmail.com
-
 <!--- 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api?username=prince-111&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-111&theme=tokyonight&layout=compact)
