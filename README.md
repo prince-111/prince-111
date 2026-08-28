@@ -31,9 +31,9 @@ Always open to learning, collaborating, and building things that matter.
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prince-111)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prince-111&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 
 
