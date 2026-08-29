@@ -31,9 +31,9 @@ Always open to learning, collaborating, and building things that matter.
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=prince-111&theme=tokyonight&hide_border=true" height="165" />
-</p>
+</p> -->
 
 
 
